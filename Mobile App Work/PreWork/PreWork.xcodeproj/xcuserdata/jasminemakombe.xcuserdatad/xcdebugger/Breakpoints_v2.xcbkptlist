@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6BB61CD3-5F56-4F9D-BFE8-232A14729703"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C57B0FC-475E-47D6-8E2C-4C584B38BDDB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PreWork/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6C57B0FC-475E-47D6-8E2C-4C584B38BDDB - 52a74a1058375932"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PreWork.ViewController.tipController.getter : Swift.Optional&lt;__C.UISegmentedControl&gt;"
+                  moduleName = "PreWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasminemakombe/Desktop/PreWork-Repo/Mobile%20App%20Work/PreWork/PreWork/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "6C57B0FC-475E-47D6-8E2C-4C584B38BDDB - a4e895e29971013e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PreWork.ViewController.tipController.setter : Swift.Optional&lt;__C.UISegmentedControl&gt;"
+                  moduleName = "PreWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasminemakombe/Desktop/PreWork-Repo/Mobile%20App%20Work/PreWork/PreWork/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "6C57B0FC-475E-47D6-8E2C-4C584B38BDDB - 75a87a2923dde5da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PreWork.ViewController.tipController.modify : Swift.Optional&lt;__C.UISegmentedControl&gt;"
+                  moduleName = "PreWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasminemakombe/Desktop/PreWork-Repo/Mobile%20App%20Work/PreWork/PreWork/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "6C57B0FC-475E-47D6-8E2C-4C584B38BDDB - 95fb7616b5df5dbf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PreWork.ViewController.tipController.modify : Swift.Optional&lt;__C.UISegmentedControl&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PreWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasminemakombe/Desktop/PreWork-Repo/Mobile%20App%20Work/PreWork/PreWork/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "6C57B0FC-475E-47D6-8E2C-4C584B38BDDB - 1e1436b2f9acd7a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PreWork.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PreWork.ViewController"
+                  moduleName = "PreWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasminemakombe/Desktop/PreWork-Repo/Mobile%20App%20Work/PreWork/PreWork/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "194">
+               </Location>
+               <Location
+                  uuid = "6C57B0FC-475E-47D6-8E2C-4C584B38BDDB - 6b13f521b71887d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PreWork.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PreWork.ViewController&gt;"
+                  moduleName = "PreWork"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jasminemakombe/Desktop/PreWork-Repo/Mobile%20App%20Work/PreWork/PreWork/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "151">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
